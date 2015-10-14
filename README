@@ -1,0 +1,33 @@
+Features Added:
+
+Sound i.e Generic music player that loops through a set of songs with pause, play , stop, get next capabilities.
+
+Dialogue screen that displays stories rendering letters smoothly one at a time, pausing on punctuation.
+
+Game play with robot swing his arm and killing enemies.
+
+Tied into the scoring system:
+Winning condition when robot kills 30 enemies
+Losing condition when robot is hit on his torso by enemy.
+
+
+Menu screen with a play button and creative logo floating.
+
+Different enemy entity behaviours(AI behaviour): seek, shy, wander only one of whick, seek, is used in current game play. 
+
+Creative visual effects with gears spinning, robot swinging his arm, generic tilable background class, creative logo floating on menu screen and dialogue screen.
+
+
+Game controls:
+
+In the dialogue screen, hold space to make words display faster.
+
+Click or hold left mouse key to swipe robot's arm to varying degrees. Release to
+swing arm back.
+
+Enemies are killed when robot swipes his arm and they are touched by the arm in swing.
+
+Robot follows mouse and faces towards the mouse; so move robot by dragging mouse around.
+
+During game play press p to pause the game. Press p again to play game again. 
+
